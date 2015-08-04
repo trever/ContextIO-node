@@ -1,4 +1,6 @@
 ./tester.js
 tester.js
+./test.js
+test.js
 .gitignore
 ./node_modules
