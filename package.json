@@ -2,15 +2,15 @@
 	"name": "treverpr-contextio",
 	"description": "Official Node.js client library for the Context.IO Email API",
 	"keywords": ["email","ContextIO","api","imap","gmail","tools","rest"],
-	"version": "0.4.1",
+	"version": "0.4.9",
 	"author": "Bruno Morency <bruno@context.io>",
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/ContextIO/ContextIO-node.git"
+		"url": "http://github.com/trever/ContextIO-node.git"
 	},
 	"bugs": {
-		"url": "http://github.com/ContextIO/ContextIO-node/issues",
-		"email": "support@context.io"
+		"url": "http://github.com/trever/ContextIO-node/issues",
+		"email": "help@trever.co"
 	},
 	"devDependencies": {
 		"vows": "0.6.x"
